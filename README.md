@@ -1,2 +1,2 @@
-# STM-Game
-game that we will dont know what will be..
+# StickHP
+1v1 2 player terminal-based game
