@@ -1,8 +1,13 @@
+# importing skins
 from stickmanskins import *
+# imports standard packages, os and random
 import os
 import random
+#defines players' money that the players start with
 player1money = 10
 player2money = 10
+
+# long list of definitions for each skin price
 stickman1price=10
 stickman2price=30
 stickman3price=40
@@ -39,11 +44,17 @@ stickman33price=1250
 stickman34price=1250
 stickman35price=random.randint(1,200)
 
+#this function makes it easier to clear the console
 def clear():
   os.system("clear")
+
+#This function is the main script that will be worked on for the shop
 def ShopHasOpened():
+  #this is how the clear() command works
   clear()
+  #adds placeholder
   print(StickMan1())
+  #makes a loop for shop
   while True:
     next=int(input("Enter a number to see what skin is avaliable, there are 35 skins to choose from: "))
     if next==1:
