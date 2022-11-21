@@ -56,7 +56,10 @@ def ShopHasOpened():
   print(StickMan1())
   #makes a loop for shop
   while True:
+    # line 60 is asking for an skin number input for purchase
     next=int(input("Enter a number to see what skin is avaliable, there are 35 skins to choose from: "))
+    
+    # lots of if statements checking if the number is avaliable and what skin is the number
     if next==1:
       clear()
       print(StickMan1())
