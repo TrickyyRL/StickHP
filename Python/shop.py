@@ -1,4 +1,4 @@
-# importing skins
+    # importing skins
 from stickmanskins import *
 # imports standard packages, os and random
 import os
@@ -63,192 +63,227 @@ def ShopHasOpened():
     if next==1:
       clear()
       print(StickMan1())
-      print("Price:",stickman1price,"coins")
       print(next,"/ 35")
+      print("Price:",stickman1price,"coins")
+    
     if next==2:
       clear()
       print(StickMan2())
       print(next,"/ 35")
+      print("Price:",stickman2price,"coins")
        
     if next==3:
       clear()
       print(StickMan3())
+      print("Price:",stickman3price,"coins")
       print(next,"/ 35")
       
     if next==4:
       clear()
       print(StickMan4())
+      print("Price:",stickman4price,"coins")
       print(next,"/ 35")
       
     if next==5:
       clear()
       print(StickMan5())
+      print("Price:",stickman5price,"coins")
       print(next,"/ 35")
       
     if next==6:
       clear()
       print(StickMan6())
+      print("Price:",stickman6price,"coins")
       print(next,"/ 35")
       
     if next==7:
       clear()
       print(StickMan7())
+      print("Price:",stickman7price,"coins")
       print(next,"/ 35")
     
     if next==8:
       clear()
       print(StickMan8())
+      print("Price:",stickman8price,"coins")
       print(next,"/ 35")
       
     if next==9:
       clear()
       print(StickMan9())
+      print("Price:",stickman9price,"coins")
       print(next,"/ 35")
       
   
     if next==10:
       clear()
       print(StickMan10())
+      print("Price:",stickman10price,"coins")
       print(next,"/ 35")
       
    
     if next==11:
       clear()
       print(StickMan11())
+      print("Price:",stickman11price,"coins")
       print(next,"/ 35")
       
       
     if next==12:
       clear()
       print(StickMan12())
+      print("Price:",stickman12price,"coins")
       print(next,"/ 35")
       
       
     if next==13:
       clear()
       print(StickMan13())
+      print("Price:",stickman13price,"coins")
       print(next,"/ 35")
       
       
     if next==14:
       clear()
       print(StickMan14())
+      print("Price:",stickman14price,"coins")
       print(next,"/ 35")
       
       
     if next==15:
       clear()
       print(StickMan15())
+      print("Price:",stickman15price,"coins")
       print(next,"/ 35")
       
       
     if next==16:
       clear()
       print(StickMan16())
+      print("Price:",stickman16price,"coins")
       print(next,"/ 35")
       
       
     if next==17:
       clear()
       print(StickMan17())
+      print("Price:",stickman17price,"coins")
       print(next,"/ 35")
      
       
     if next==18:
       clear()
       print(StickMan18())
+      print("Price:",stickman18price,"coins")
       print(next,"/ 35")
       
       
     if next==19:
       clear()
       print(StickMan19())
+      print("Price:",stickman19price,"coins")
       print(next,"/ 35")
       
   
     if next==20:
       clear()
       print(StickMan20())
+      print("Price:",stickman20price,"coins")
       print(next,"/ 35")
      
       
     if next==21:
       clear()
       print(StickMan21())
+      print("Price:",stickman21price,"coins")
       print(next,"/ 35")
       
       
     if next==22:
       clear()
       print(StickMan22())
+      print("Price:",stickman22price,"coins")
       print(next,"/ 35")
      
       
     if next==23:
       clear()
       print(StickMan23())
+      print("Price:",stickman23price,"coins")
       print(next,"/ 35")
       
       
     if next==24:
       clear()
       print(StickMan24())
+      print("Price:",stickman24price,"coins")
       print(next,"/ 35")
      
       
     if next==25:
       clear()
       print(StickMan25())
+      print("Price:",stickman25price,"coins")
       print(next,"/ 35")
       
       
     if next==26:
       clear()
       print(StickMan26())
+      print("Price:",stickman26price,"coins")
       print(next,"/ 35")
       
       
     if next==27:
       clear()
       print(StickMan27())
+      print("Price:",stickman27price,"coins")
       print(next,"/ 35")
       
     if next==28:
       clear()
       print(StickMan28())
+      print("Price:",stickman28price,"coins")
       print(next,"/ 35")
       
     if next==29:
       clear()
       print(StickMan29())
+      print("Price:",stickman29price,"coins")
       print(next,"/ 35")
       
     if next==30:
       clear()
       print(StickMan30())
+      print("Price:",stickman30price,"coins")
       print(next,"/ 35")
       
     if next==31:
       clear()
       print(StickMan31())
+      print("Price:",stickman31price,"coins")
       print(next,"/ 35")
       
     if next==32:
       clear()
       print(StickMan32())
+      print("Price:",stickman32price,"coins")
       print(next,"/ 35")
   
     if next==33:
       clear()
       print(StickMan33())
+      print("Price:",stickman33price,"coins")
       print(next,"/ 35")
       
     if next==34:
       clear()
       print(StickMan34())
+      print("Price:",stickman34price,"coins")
       print(next,"/ 35")
       
     if next==35:
       clear()
       print(StickMan35())
+      print("Price:",stickman35price,"coins")
       print(next,"/ 35")
