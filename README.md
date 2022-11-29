@@ -1,2 +1,2 @@
 # StickHP
-A 1v1 2 player terminal-based game
+A 1v1 game that is played on the terminal and requires 2 players
